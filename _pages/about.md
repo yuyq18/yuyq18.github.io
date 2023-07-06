@@ -21,7 +21,7 @@ Education
 Publications
 ======
 
-* Chenyang Wang, **Yuyuan Qing**, Weizhi Ma, Min Zhang, Chong Chen, Yiqun Liu, Shaoping Ma. Towards Representation Alignment and Uniformity in Collaborative Filtering. The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD 2022**) [Online Version](https://dl.acm.org/doi/abs/10.1145/3534678.3539253)
+* Chenyang Wang, **Yuanqing Yu**, Weizhi Ma, Min Zhang, Chong Chen, Yiqun Liu, Shaoping Ma. Towards Representation Alignment and Uniformity in Collaborative Filtering. The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD 2022**) [Online Version](https://dl.acm.org/doi/abs/10.1145/3534678.3539253)
 
 Honors and Awards
 ======
