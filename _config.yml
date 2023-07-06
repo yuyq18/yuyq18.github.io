@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Yuanqing Yu"
 title_separator          : "-"
-name                     : &name "Yuanqing Yu"
+name                     : &name "庾源清"
 description              : &description "Ph.D. student At Tsinghua University"
 url                      : https://yuyq18.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yuanqing Yu"
-  avatar           : "profile.png"
+  avatar           : "yuanqing.jpg"
   bio              : "Ph.D. student At Tsinghua University"
   location         : "Beijing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=2ug27CIAAAAJ"
-  email            :
+  email            : "yuyq0114@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
