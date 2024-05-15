@@ -21,7 +21,7 @@ Education
 Publications
 ======
 
-* **Yuanqing Yu**, Chongming Gao, Jiawei Chen, Heng Tang, Yuefeng Sun, Qian Chen, Weizhi Ma, Min Zhang. EasyRL4Rec: An Easy-to-use Library for Reinforcement Learning Based Recommender Systems. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2024**) (Resouurce)
+* **Yuanqing Yu**, Chongming Gao, Jiawei Chen, Heng Tang, Yuefeng Sun, Qian Chen, Weizhi Ma, Min Zhang. EasyRL4Rec: An Easy-to-use Library for Reinforcement Learning Based Recommender Systems. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2024**) (Resource)
 
 * Zhefan Wang, **Yuanqing Yu** (Co-First Author), Wendi Zheng, Weizhi Ma, Min Zhang. MACRec: a Multi-Agent Collaboration Framework for Recommendation. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2024**) (Demo)
 
