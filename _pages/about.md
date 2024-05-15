@@ -21,7 +21,13 @@ Education
 Publications
 ======
 
-* Chenyang Wang, **Yuanqing Yu**, Weizhi Ma, Min Zhang, Chong Chen, Yiqun Liu, Shaoping Ma. Towards Representation Alignment and Uniformity in Collaborative Filtering. The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD 2022**) [Online Version](https://dl.acm.org/doi/abs/10.1145/3534678.3539253)
+* **Yuanqing Yu**, Chongming Gao, Jiawei Chen, Heng Tang, Yuefeng Sun, Qian Chen, Weizhi Ma, Min Zhang. EasyRL4Rec: An Easy-to-use Library for Reinforcement Learning Based Recommender Systems. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2024**) (Resouurce)
+
+* Zhefan Wang, **Yuanqing Yu** (Co-First Author), Wendi Zheng, Weizhi Ma, Min Zhang. MACRec: a Multi-Agent Collaboration Framework for Recommendation. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2024**) (Demo)
+
+* Chenyang Wang, Yankai Liu, **Yuanqing Yu**, Weizhi Ma, Min Zhang, Yiqun Liu, Haitao Zeng, Junlan Feng, Chao Deng. Two-sided Calibration for Quality-aware Responsible Recommendation. The 17th ACM Conference on Recommender Systems. (**RecSys 2023**) [Online Version](https://dl.acm.org/doi/10.1145/3604915.3608799)
+
+* Chenyang Wang, **Yuanqing Yu**, Weizhi Ma, Min Zhang, Chong Chen, Yiqun Liu, Shaoping Ma. Towards Representation Alignment and Uniformity in Collaborative Filtering. The 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD 2022**) [Online Version](https://dl.acm.org/doi/10.1145/3534678.3539253)
 
 Honors and Awards
 ======
