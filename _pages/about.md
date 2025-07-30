@@ -38,6 +38,8 @@ Publications
 Honors and Awards
 ======
 
+* *Dec.2024*: Overall Excellence Scholarship, Department of Computer Science and Technology, Tsinghua University.
+
 * *Jul.2023*: Outstanding Graduate, Beijing.
 * *Jul.2023*: Excellent Graduate, Tsinghua University.
 <!-- * *Jul.2023*: Outstanding Graduate, Department of Computer Science and Technology, Tsinghua University. -->
