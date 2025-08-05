@@ -21,6 +21,8 @@ Education
 Publications
 ======
 
+* **Yuanqing Yu**, Zhefan Wang, Weizhi Ma, Shuai Wang, Chuhan Wu, Zhiqiang Guo, Min Zhang. StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement Learning. The 34th ACM International Conference on Information and Knowledge Management. (**CIKM 2025**)
+
 * **Yuanqing Yu**, Zhefan Wang, Chumeng Jiang, Xinyi Li, Jiayin Wang, Min Zhang. Intelligent Agents with Adaptive Knowledge Fusion for Personalized Recommendation. Companion Proceedings of the ACM on Web Conference 2025. (**WWW Companion 2025**) [Online Version](https://dl.acm.org/doi/pdf/10.1145/3701716.3719230)
 
 * Chongming Gao, Ruijun Chen, Shuai Yuan, Kexin Huang, **Yuanqing Yu**, Xiangnan He. SPRec: Self-Play to Debias LLM-based Recommendation. Proceedings of the ACM on Web Conference 2025. (**WWW 2025**) [Online Version](https://dl.acm.org/doi/abs/10.1145/3696410.3714524)
