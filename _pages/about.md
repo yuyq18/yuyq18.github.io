@@ -21,13 +21,17 @@ Education
 Publications
 ======
 
-* **Yuanqing Yu**, Zhefan Wang, Weizhi Ma, Shuai Wang, Chuhan Wu, Zhiqiang Guo, Min Zhang. StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement Learning. The 34th ACM International Conference on Information and Knowledge Management. (**CIKM 2025**)
+* **Yuanqing Yu**, Yifan Wang, Weizhi Ma, Zhiqiang Guo, Min Zhang. APAO: Adaptive Prefix-Aware Optimization for Generative Recommendation. The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2. (**KDD 2026**)
+
+* Yu Shang, Peijie Liu, Yuwei Yan, Zijing Wu, Leheng Sheng, **Yuanqing Yu**, Chumeng Jiang, An Zhang, Fengli Xu, Yu Wang, Min Zhang, Yong Li. AgentRecBench: Benchmarking LLM Agent-based Personalized Recommender Systems. The 39th Conference on Neural Information Processing Systems Track on Datasets and Benchmarks. (**NeurIPS 2025**) [Online Version](https://proceedings.neurips.cc/paper_files/paper/2025/file/e2d6f7249add096e26679eade1b4cc6f-Paper-Datasets_and_Benchmarks_Track.pdf)
+
+* **Yuanqing Yu**, Zhefan Wang, Weizhi Ma, Shuai Wang, Chuhan Wu, Zhiqiang Guo, Min Zhang. StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement Learning. The 34th ACM International Conference on Information and Knowledge Management. (**CIKM 2025**) [Online Version](https://dl.acm.org/doi/pdf/10.1145/3746252.3761391)
 
 * **Yuanqing Yu**, Zhefan Wang, Chumeng Jiang, Xinyi Li, Jiayin Wang, Min Zhang. Intelligent Agents with Adaptive Knowledge Fusion for Personalized Recommendation. Companion Proceedings of the ACM on Web Conference 2025. (**WWW Companion 2025**) [Online Version](https://dl.acm.org/doi/pdf/10.1145/3701716.3719230)
 
 * Chongming Gao, Ruijun Chen, Shuai Yuan, Kexin Huang, **Yuanqing Yu**, Xiangnan He. SPRec: Self-Play to Debias LLM-based Recommendation. Proceedings of the ACM on Web Conference 2025. (**WWW 2025**) [Online Version](https://dl.acm.org/doi/abs/10.1145/3696410.3714524)
 
-* Weiwen Liu\*, Xu Huang\*, Xingshan Zeng\*, Xinlong Hao, Shuai Yu, Dexun Li, Shuai Wang, Weinan Gan, Zhengying Liu, **Yuanqing Yu**, et al. Toolace: Winning the points of llm function calling. The 13th International Conference on Learning Representations (**ICLR 2025**) [Online Version](https://arxiv.org/pdf/2409.00920)
+* Weiwen Liu\*, Xu Huang\*, Xingshan Zeng\*, Xinlong Hao, Shuai Yu, Dexun Li, Shuai Wang, Weinan Gan, Zhengying Liu, **Yuanqing Yu**, et al. Toolace: Winning the points of llm function calling. The 13th International Conference on Learning Representations. (**ICLR 2025**) [Online Version](https://arxiv.org/pdf/2409.00920)
 
 * **Yuanqing Yu**, Chongming Gao, Jiawei Chen, Heng Tang, Yuefeng Sun, Qian Chen, Weizhi Ma, Min Zhang. EasyRL4Rec: An Easy-to-use Library for Reinforcement Learning Based Recommender Systems. The 47th International ACM SIGIR Conference on Research and Development in Information Retrieval. (**SIGIR 2024**) (Resource)
 
@@ -39,14 +43,17 @@ Publications
 
 Honors and Awards
 ======
-
+* *Dec.2025*: Overall Excellence Scholarship, Department of Computer Science and Technology, Tsinghua University.
 * *Dec.2024*: Overall Excellence Scholarship, Department of Computer Science and Technology, Tsinghua University.
 
 * *Jul.2023*: Outstanding Graduate, Beijing.
-* *Jul.2023*: Excellent Graduate, Tsinghua University.
-<!-- * *Jul.2023*: Outstanding Graduate, Department of Computer Science and Technology, Tsinghua University. -->
+* *Jul.2023*: Excellent Graduate, Department of Computer Science and Technology, Tsinghua University.
 * *Dec.2022*: Overall Excellence Scholarship, Tsinghua University.
 * *Dec.2021*: Overall Excellence Scholarship, Tsinghua University.
 <!-- * *Dec.2020*: Social Practice Scholarship, Tsinghua University. -->
 <!-- * *Dec.2020*: Community Contribution Scholarship, Tsinghua University. -->
-* *Dec.2019*: Overall Excellence Scholarship, Tsinghua University. 
+* *Dec.2019*: Overall Excellence Scholarship, Tsinghua University.
+
+Leadership Experience
+======
+* *Aug.2023 - present*: Undergraduate Student Advisor, Department of Computer Science and Technology, Tsinghua University.
