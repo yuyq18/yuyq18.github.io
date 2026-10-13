@@ -123,6 +123,8 @@ include:
   - _pages
   - files
 exclude:
+  - llm-reports/tools
+  - llm-reports/README.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
